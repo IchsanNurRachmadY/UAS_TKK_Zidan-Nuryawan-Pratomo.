@@ -1,0 +1,12 @@
+Ketua : Zidan Nuryawan Pratomo_1207070132
+Anggota Kelompok : 
+1. Ichsan Nur Rachmad Yusuf_1207070056
+2. Zhoraya Andrea Ramadhani_1207070131
+
+Jobdesk Masing - Masing
+1. Zidan : mencari dataset dan jurnal, mengolah data set, editing dan mencari pemoggraman, paper bagian penjelasan kesimpulan, penjelasan program dan hasil di video, membuat grafik  dan table, membantu bagian state of the art.
+2. Ichsan : Mencari dataset,mencari jurnal referensi, Paper bagian abstrak, metodologi, dan merapihkan paper, edit video presentasi.
+3. Zhoraya : mencari referensi jurnal, mengerjakan paper bagian pendahuluan, membuat ppt, menyediakan tempat, menyediakan konsumsi.
+
+Link Github : https://github.com/IchsanNurRachmadY/UAS_TKK_Zidan-Nuryawan-Pratomo.git
+Link Youtube : https://youtu.be/hcIiaykEZsM
